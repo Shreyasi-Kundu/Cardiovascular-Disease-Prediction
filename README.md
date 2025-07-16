@@ -17,7 +17,7 @@ This project utilizes machine learning algorithms to detect the likelihood of ca
 
 ---
 
-## 🧠 Introduction
+## Introduction
 
 Cardiovascular diseases (CVDs) are a leading cause of global deaths. Early detection can significantly reduce the mortality rate. This project aims to predict the presence of CVD in patients using anonymized healthcare data and various machine learning models.
 
@@ -25,7 +25,7 @@ Our focus is on building **recall-optimized models** to minimize false negatives
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset contains **70,000 patient records** with the following attributes:
 
@@ -46,7 +46,7 @@ The dataset contains **70,000 patient records** with the following attributes:
 
 ---
 
-## 🧩 Models Used
+## Models Used
 
 We implemented and compared several machine learning algorithms:
 - ✅ **Logistic Regression** (with threshold tuning using Youden’s Index)
@@ -60,7 +60,7 @@ We implemented and compared several machine learning algorithms:
 
 ---
 
-## 📈 Results
+## Results
 
 We evaluated the models using the following key performance metrics:
 
@@ -77,7 +77,7 @@ We evaluated the models using the following key performance metrics:
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 We used **Matplotlib** and **Seaborn** libraries to create insightful visualizations that helped us understand the impact of different features on cardiovascular risk. Key visualizations include:
 
@@ -91,7 +91,7 @@ We used **Matplotlib** and **Seaborn** libraries to create insightful visualizat
 
 ---
 
-## 📄 Project Report
+## Project Report
 
 📥 Download the full PDF report to explore detailed documentation of the project, including:
 

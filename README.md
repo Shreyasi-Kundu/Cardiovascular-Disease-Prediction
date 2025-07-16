@@ -60,6 +60,15 @@ We implemented and compared several machine learning algorithms:
 
 ---
 
+## Usage
+In India, huge mortality occurs due to cardiovascular diseases (CVDs) as these diseases are 
+not diagnosed in early stages. Machine learning (ML) algorithms can be used to build 
+efficient and economical prediction system for early diagnosis of CVDs in India. . This 
+initiative will provide us with important information that can help us predict the patients with 
+cardiovascular disease and It is implemented on the.pynb format.
+
+---
+
 ## Results
 
 We evaluated the models using the following key performance metrics:
@@ -87,8 +96,7 @@ We used **Matplotlib** and **Seaborn** libraries to create insightful visualizat
 - 🔥 Correlation heatmap to understand feature relationships
 - 🧬 Feature importance plot from Random Forest mode
 
-🗂️ [View All Visualizations](visualizations/)
-
+🗂️ All visualizations are available in the `visualizations/` folder.
 
 ---
 
@@ -103,11 +111,5 @@ We used **Matplotlib** and **Seaborn** libraries to create insightful visualizat
 - Model development and tuning  
 - Practical importance of the model in real-world healthcare settings
 
-📄 [Download Full Report](CVD_Final%20report.pdf)
-
-
-
-
-
-
+📄 [Download Final Report](CVD_Final%20report_approved.pdf)
 

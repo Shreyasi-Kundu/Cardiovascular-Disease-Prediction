@@ -87,7 +87,8 @@ We used **Matplotlib** and **Seaborn** libraries to create insightful visualizat
 - 🔥 Correlation heatmap to understand feature relationships
 - 🧬 Feature importance plot from Random Forest mode
 
-🗂️ All visualizations are available in the `Visualisation/` folder.
+🗂️ [View All Visualizations](visualizations/)
+
 
 ---
 
@@ -102,7 +103,8 @@ We used **Matplotlib** and **Seaborn** libraries to create insightful visualizat
 - Model development and tuning  
 - Practical importance of the model in real-world healthcare settings
 
-📄 [Download Final Report](CVD_Final report.pdf)
+📄 [Download Full Report](CVD_Final%20report.pdf)
+
 
 
 

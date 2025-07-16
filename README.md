@@ -96,7 +96,7 @@ We used **Matplotlib** and **Seaborn** libraries to create insightful visualizat
 - 🔥 Correlation heatmap to understand feature relationships
 - 🧬 Feature importance plot from Random Forest mode
 
-📁 All visualizations are available in the [`Visualization/`](Visualization/) folder.
+📁 All visualizations are available in the [`Visualisation/`](Visualisation/) folder.
 
 
 ---
